@@ -26,5 +26,12 @@ the commandes was so easy :
  9 -  after writing this documment on my terminal i ll try to push it to the main repository  
   10  - we will   use the commande git add  fileName.what ever extension 
  11 -  commande  git statut to see   if its modified  
-12  - 
+12  -  i ve strugled little bit to push it   hahah but it is here now 
+13 - i have used the commande  : git  branch -M main  
+14 -  next commande  : git push  -u origin main 
+15  - they asked for user name   
+16 -  the asked for password  : note that the password is the token access generated  
+ 17 -  and here  the push is completed   
+
+see you  in real pushes   thank you 
  
