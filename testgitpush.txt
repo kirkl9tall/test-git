@@ -1,0 +1,30 @@
+ hello world !
+
+
+i am trying to do my first push with linux i hope that it will work and appears in the github 
+
+thank you  i  hope also that i will develop my self to know more and more 
+
+see ya later folks
+
+by the way i am using vim  on linux to  push it 
+
+the commandes was so easy : 
+
+1 - open your terminal  
+2 - see wich version   of  git is installed in your system  with the commande  : git version
+3 -  check  the version if it does not appear  that you have to install git  cause it is not installed yet 
+
+4 -  use the commande :  git config --global user.name YourUserName  { to set your user name } 
+5 -  use the commande  :  git config --global  user.email YourUserEmail@.com { to set your  email } 
+6 -   now  we  do forking  what ever this means  : haha look    go to :
+		1- your github> create a new repository > set ip up >  copy the link  that is given to you 
+
+7 - go back to your terminal and  use the commande  : git clone https://XXXXXXXXX 
+
+8 -  now you have the repository on your  root or what ever you have  . 
+ 9 -  after writing this documment on my terminal i ll try to push it to the main repository  
+  10  - we will   use the commande git add  fileName.what ever extension 
+ 11 -  commande  git statut to see   if its modified  
+12  - 
+ 
