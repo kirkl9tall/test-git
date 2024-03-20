@@ -1,3 +1,5 @@
+// calculator  example  with C   there is  condition  and switch mode 
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
