@@ -27,7 +27,7 @@ int main()
 		printf("%sveuillez entrer le 2 eme num : \n",KBLU);
 		scanf(" %d",&B);
 		// --------- saisir  l operation --------//
-		printf("%sveuillez saisir l operation :\n  ",KMAG);
+		printf("%sveuillez saisir l operation :\n  ",KGRN);
 		scanf(" %c",&C);
 		//----------  condition -------------//
 
@@ -48,7 +48,7 @@ int main()
 			D = A*B;
 		printf(" le resultat est  : %d \n ",D);
 		}
-	printf("Voulez vous faire une autre equation ? Y/n \n ");
+	printf("Voulez vous faire une autre equation ? Y/n \n ",KMAG);
 
 	scanf(" %c",&Ch);
 			switch (Ch) {
